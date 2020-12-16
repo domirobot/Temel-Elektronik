@@ -3,7 +3,7 @@ Domirobot.com'un temel elektronik komponentlerinizi kolayca test edebilmek için
 
 İçindekiler
 
-Ultrasonik Sensör
-PIR Sensör
+Ultrasonik Sensör -
+PIR Sensör -
 
 
